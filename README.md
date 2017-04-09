@@ -1,4 +1,6 @@
-# Programmatic answers to the 30 Day Song Challenge
+# Programmatic answers to the 30 Day Music Challenge
+
+You can read the blog post that accompanies this repo [here](http://mycode.doesnot.run/2017/04/09/the-30-day-music-challenge/).
 
 # Sources:
 
