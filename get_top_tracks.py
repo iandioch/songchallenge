@@ -3,7 +3,7 @@
 from loadjson import get_json_web, get_json_file
 import json, datetime
 
-NUM_TRACKS = 200
+NUM_TRACKS = 500
 
 if __name__ == '__main__':
     config_data = get_json_file('config.hidden.json')
