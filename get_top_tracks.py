@@ -6,7 +6,7 @@ import json, datetime
 NUM_TRACKS = 2500
 
 if __name__ == '__main__':
-    config_data = get_json_file('config.hidden.json')
+    config_data = get_json_file('config.json')
     if config_data is None:
         print('Unable to load config_data')
     username = config_data['username']
