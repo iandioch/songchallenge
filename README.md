@@ -11,4 +11,7 @@ You can read the blog post that accompanies this repo [here](http://mycode.doesn
 
 # Setup
 
-`mv config.json.sample config.json` and edit `config.json`
+```
+$ mv config.json.sample config.json
+$ edit config.json
+```
