@@ -15,7 +15,7 @@ for track in data['toptracks']['track']:
         break
 
 config = None
-with open('config.hidden.json', 'r') as f:
+with open('config.json', 'r') as f:
     config = json.load(f)
 
 api_key = config['getsongbpm_api_key']
